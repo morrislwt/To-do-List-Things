@@ -1,6 +1,6 @@
 #  Things
 
-## App Screen Shot
+## App Screenshot
 
 ![Alt text](pic1.jpg)
 ![Alt text](pic2.jpg)
